@@ -1,0 +1,2 @@
+# How-to-install-Zphisher-on-termux
+Steps To Install ZPhisher on Termux Without Error First, open your termux and active your internet connection and then start using the below commands on your terminal, and try to use the Zphisher script on termux.  apt update apt upgrade apt install git php openssh curl -y git clone https://github.com/htr-tech/zphisher cd zphisher chmod +x zphisher.sh bash zphisher.sh
